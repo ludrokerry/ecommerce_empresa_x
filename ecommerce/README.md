@@ -24,3 +24,7 @@ __Melhoria 1__, _Melhoria 2_
 1. Área de membros
 2. Integração de pagamentos
 3. Sistema de bonus primeira compra
+
+### Imagem local
+
+![Logo do Python](img/python.png)
