@@ -39,4 +39,12 @@ __Melhoria 1__, _Melhoria 2_
 
 Contribuidor principal: https://www.github.com/ludrokerry
 
+## Codigo função soma
+
+```javascript
+    function soma(a, b){
+        return a + b
+    }
+```
+
 
