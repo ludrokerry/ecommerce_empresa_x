@@ -47,4 +47,9 @@ Contribuidor principal: https://www.github.com/ludrokerry
     }
 ```
 
+## Lista de tarefas a fazer
 
+- [ x ] Área de membros
+- [ ] Integração com outros programas
+- [ ] Sistema de bônus
+- [ x ] CSS do rodapé
